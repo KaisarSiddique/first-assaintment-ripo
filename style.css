@@ -29,7 +29,7 @@ h2{
 }
 #person{
     border-radius: 50px;
-    align="right";
+   
     border-right-style: solid;
 
 }
@@ -78,7 +78,6 @@ h4{
     padding: 100px;
     border-radius: 55px;
     box-shadow: 5px 5px rgb(0, 0, 0);
-    img
 }
 .Fifth-see{
     display: flex;
@@ -92,7 +91,7 @@ h4{
 #fotter{
     text-decoration-color: red;
     text-align: center;
-    text-size:30;
+
     font-family: 'Poppins', sans-serif;
 }
 #fotter-01{
