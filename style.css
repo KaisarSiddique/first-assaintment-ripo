@@ -1,0 +1,107 @@
+body{
+    margin: 20px 40px ;
+    font-family: 'Poppins', sans-serif;
+}
+.top-section{
+    display: flex;
+}
+h1{
+    font-size: 45px;
+}
+h2{
+    font-size: 30px;
+}
+#left-border{
+    border-left: 5px solid rgb(81, 255, 0);
+    border-radius: 5px;
+    border-left-width: 5px;
+}
+.color{
+    color: aqua;
+}
+.button-style{
+    text-decoration: none;
+    color: greenyellow;
+    border: indigo;
+    padding: 5px;
+    background-color: silver;
+    border-radius: 5px;
+}
+#person{
+    border-radius: 50px;
+    align="right";
+    border-right-style: solid;
+
+}
+.first-mession{
+    width: 50%;
+}
+.second-section{
+    display: flex;
+}
+.second{
+    border: 10px dashed rgba(247, 247, 247, 0.411);
+    padding: 25px;
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    box-shadow: 20px 20px whitesmoke;
+}
+.third{
+    display: flex;
+    margin: 80px;
+}
+#third-image{
+    border-radius: 10px;
+    box-shadow: 10px 10px goldenrod;
+}
+p{
+    text-align: justify;
+}
+h4{
+    margin-left: 25px;
+}
+.align{
+    margin: 20px;
+    padding: 5px 10px;
+}
+.problem{
+    align-content: butt;
+}
+.forth{
+    display: flex;
+    width: 25%;
+    margin: 80px;
+    padding: 45px;
+}
+#Forth{
+    align-content: right;
+    padding: 100px;
+    border-radius: 55px;
+    box-shadow: 5px 5px rgb(0, 0, 0);
+    img
+}
+.Fifth-see{
+    display: flex;
+    width: 35%;
+   
+}
+.Fifth{
+    display: flex;
+    margin: 20px 15px 10px 25px;
+}
+#fotter{
+    text-decoration-color: red;
+    text-align: center;
+    text-size:30;
+    font-family: 'Poppins', sans-serif;
+}
+#fotter-01{
+    color: fuchsia;
+    text-decoration: indigo;
+}
+#footer-02{
+    color: red;
+    text-align: center;
+}
+
+
